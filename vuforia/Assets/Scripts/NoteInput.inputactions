@@ -1,0 +1,550 @@
+{
+    "name": "NoteInput",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "c6792fa3-b879-445e-87ea-fac0d7626246",
+            "actions": [
+                {
+                    "name": "PlayC3",
+                    "type": "PassThrough",
+                    "id": "c55f7ea3-c95e-44de-9670-5bea10876aca",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayCs3",
+                    "type": "PassThrough",
+                    "id": "f1606149-a246-474f-b367-07d370bb5f4a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayD3",
+                    "type": "PassThrough",
+                    "id": "df64b187-3e06-4ccc-939e-86127545a948",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayDs3",
+                    "type": "PassThrough",
+                    "id": "e3df3323-c68f-41fa-9bda-e311e144c53f",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayE3",
+                    "type": "PassThrough",
+                    "id": "d6bc7e9f-3055-4797-bacb-9d19f67374a0",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayF3",
+                    "type": "PassThrough",
+                    "id": "7fd31a8b-de71-4c6f-9a13-9bf16b6c61ed",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayFs3",
+                    "type": "PassThrough",
+                    "id": "ca5cdc94-c09e-489b-a79c-1ec7cc147642",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayG3",
+                    "type": "PassThrough",
+                    "id": "b9edb4ad-5ddf-444e-9a37-0a550460886d",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayGs3",
+                    "type": "PassThrough",
+                    "id": "89f3375b-f421-4cf3-9199-edeba941efb0",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayA3",
+                    "type": "PassThrough",
+                    "id": "af42e7fa-42a4-4fce-9057-7229d65b2581",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayAs3",
+                    "type": "PassThrough",
+                    "id": "b4c4bbb0-fd0e-4bbb-9916-aeded66e06a7",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayB3",
+                    "type": "PassThrough",
+                    "id": "77967b43-49c3-4982-b3ba-dee4b54ec67d",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayC4",
+                    "type": "PassThrough",
+                    "id": "7164a70a-a397-4d3f-83e4-1629a4039056",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayCs4",
+                    "type": "PassThrough",
+                    "id": "fb7b122f-7bdb-4ee1-9ddd-9abd7f59830d",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayD4",
+                    "type": "PassThrough",
+                    "id": "21adfdd5-6b7f-4bc0-bd80-d787e2b6d482",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayDs4",
+                    "type": "PassThrough",
+                    "id": "1572a295-d738-4a55-b2c3-b954131f01fc",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayE4",
+                    "type": "PassThrough",
+                    "id": "eb63b86a-f355-4ad0-a21d-47a3f215623c",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayF4",
+                    "type": "PassThrough",
+                    "id": "a5886951-2482-40b9-8293-914878606ad7",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayFs4",
+                    "type": "PassThrough",
+                    "id": "75fb0e33-4235-41e4-a0d1-fa25c0d44521",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayG4",
+                    "type": "PassThrough",
+                    "id": "1a4a8314-5012-4ba8-96e9-864b24b6c45d",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayGs4",
+                    "type": "PassThrough",
+                    "id": "27534c95-46d1-4ef1-9cbb-014527f2bdeb",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayA4",
+                    "type": "PassThrough",
+                    "id": "a866c24b-61a8-46d1-907a-a8f584ac5336",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayAs4",
+                    "type": "PassThrough",
+                    "id": "4e8df3fd-1382-4ed1-adab-d4f6cb4ddeb5",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayB4",
+                    "type": "PassThrough",
+                    "id": "b11f7061-f9a2-43f2-a0c2-22e6e5f82a3b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PlayC5",
+                    "type": "PassThrough",
+                    "id": "40f9c0a2-5a4f-49d1-8aa2-531f3bab44c2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "41ca8ab3-064d-48cb-8682-cf36426461e8",
+                    "path": "<MidiDevice>/note048",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayC3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "004ddd40-6559-465a-bd2d-8ee14be36470",
+                    "path": "<MidiDevice>/note050",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayD3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6a294139-7e51-490d-9adb-d138851e950f",
+                    "path": "<MidiDevice>/note049",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayCs3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "515b2b39-c29c-482c-846d-09cd897bbc1a",
+                    "path": "<MidiDevice>/note051",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayDs3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2f9c2ba6-7cd6-47e3-b043-a512d1b510c6",
+                    "path": "<MidiDevice>/note052",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayE3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3a8b43db-168d-4837-98ff-16b39582ec02",
+                    "path": "<MidiDevice>/note053",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayF3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6370c48a-3155-443a-b0eb-8f6ec83bdcbd",
+                    "path": "<MidiDevice>/note054",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayFs3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "66028515-3e3a-4b3f-907e-15f97df74586",
+                    "path": "<MidiDevice>/note055",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayG3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a70de45f-faf6-4e62-a75b-1c555f589a2d",
+                    "path": "<MidiDevice>/note072",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayC5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8b651ef1-72db-4803-b395-14c3bf42a104",
+                    "path": "<MidiDevice>/note071",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayB4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "80635c09-fdbb-4338-ab64-d08643624722",
+                    "path": "<MidiDevice>/note070",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayAs4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4499c411-2555-4f97-b3db-601df1bfcb9d",
+                    "path": "<MidiDevice>/note069",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayA4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "84aa92a4-8e30-473a-b6c8-c947bee44c8f",
+                    "path": "<MidiDevice>/note068",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayGs4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d935c2df-f59b-4cbe-83c8-628047a933ca",
+                    "path": "<MidiDevice>/note067",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayG4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe7a3534-79ac-4f1f-819c-0d30f1aa8b7d",
+                    "path": "<MidiDevice>/note066",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayFs4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2560644e-12d0-40dc-9e8e-3635e5882477",
+                    "path": "<MidiDevice>/note065",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayF4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a572e203-d4f3-4882-a579-ed653911fbf8",
+                    "path": "<MidiDevice>/note064",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayE4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "14a5aae5-04d3-4d51-b2b6-9978d01e1137",
+                    "path": "<MidiDevice>/note063",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayDs4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f3ec99b3-7544-443a-bab4-65b785bf71c9",
+                    "path": "<MidiDevice>/note062",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayD4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c68c36bc-006f-4993-8ad4-5f9e002dac47",
+                    "path": "<MidiDevice>/note061",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayCs4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6456a18f-b275-4afe-a509-4846b7c81c05",
+                    "path": "<MidiDevice>/note060",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayC4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ada12084-1b14-49da-8e15-4cc872de963e",
+                    "path": "<MidiDevice>/note059",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayB3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "be99e345-ac11-4e60-8266-ad4506357b95",
+                    "path": "<MidiDevice>/note058",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayAs3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4aaded77-57f8-4a05-80ac-dcde5401aa39",
+                    "path": "<MidiDevice>/note057",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayA3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fbfa25f8-7144-4226-8e00-3c658d45efa0",
+                    "path": "<MidiDevice>/note056",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayGs3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard&Mouse",
+            "bindingGroup": "Keyboard&Mouse",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Gamepad",
+            "bindingGroup": "Gamepad",
+            "devices": [
+                {
+                    "devicePath": "<Gamepad>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Touch",
+            "bindingGroup": "Touch",
+            "devices": [
+                {
+                    "devicePath": "<Touchscreen>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Joystick",
+            "bindingGroup": "Joystick",
+            "devices": [
+                {
+                    "devicePath": "<Joystick>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "XR",
+            "bindingGroup": "XR",
+            "devices": [
+                {
+                    "devicePath": "<XRController>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
